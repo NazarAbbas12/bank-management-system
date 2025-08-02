@@ -5,7 +5,7 @@ This is a **Bank Management System** developed in Python using **Object-Oriented
 ---
 
 ## 📁 Project Structure
-
+```
 bank-management-system/
 │
 ├── main.py # Entry point of the application
@@ -18,7 +18,7 @@ bank-management-system/
 ├── user_menu.py # Handles user interactions
 ├── accounts.csv # Stores account data
 ├── customers.csv # Stores customer data
-
+```
 
 ---
 
